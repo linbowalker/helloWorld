@@ -3,5 +3,6 @@ public class HelloWorld {
         Solution a = new Solution();
         int b = a.minCut("aab");
         System.out.println(b);
+        System.out.println(4);
     }
 }
